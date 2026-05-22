@@ -1,3 +1,4 @@
+<script src="https://t.contentsquare.net/uxa/3a129409bb852.js"></script>
 import streamlit as st
 import sqlite3
 import pandas as pd
